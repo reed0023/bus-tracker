@@ -14,7 +14,7 @@ const busStops = [
   [-71.118625, 42.374863],
 ];
 
-// TODO: add your own access token
+// TODO: add your own access tokens
 mapboxgl.accessToken =
   'pk.eyJ1IjoicmVlZDAwMjMiLCJhIjoiY2tzOTk0cG05MHhiYTJ6cm8zYXdtYjQ0MyJ9.PfEForCWcojOek2NBV1Sgg';
 
